@@ -1,3 +1,17 @@
+# React Calculator
+
+This is a simple calculator app built with React. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication and division. It also has a delete button to erase the last character from the input and an equal button to evaluate the expression.
+
+![Ekran görüntüsü 2023-06-20 184217](https://github.com/AhmetTasdemir/react_calculator/assets/79527973/87bf1e95-9a8c-4049-bad0-315034884a74)
+
+
+## Technologies
+
+This project was created with:
+
+- React
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
